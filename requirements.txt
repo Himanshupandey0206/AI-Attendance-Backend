@@ -2,9 +2,7 @@ fastapi
 uvicorn
 motor
 pymongo
-python-dotenv
 passlib[bcrypt]
-bcrypt==4.0.1
 python-jose[cryptography]
 pydantic
 pydantic-settings
@@ -12,6 +10,4 @@ google-generativeai
 opencv-python-headless
 face-recognition
 numpy
-python-multipart
 email-validator
-setuptools<70.0.0
